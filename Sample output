@@ -1,0 +1,36 @@
+Hello, World! First program - Interest calculator!!!
+-----------------------
+3000.0
+-----------------------
+with the principal amount of $3000.0 in 12.0 months, interest amount with rate 0.01% is &360.0
+with the principal amount of $3000.0 in 12.0 months, interest amount with rate 0.02% is &720.0
+with the principal amount of $3000.0 in 12.0 months, interest amount with rate 0.03% is &1080.0
+with the principal amount of $3000.0 in 12.0 months, interest amount with rate 0.04% is &1440.0
+-----------------------
+50000.0
+-----------------------
+with the principal amount of $50000.0 in 12.0 months, interest amount with rate 0.01% is &6000.0
+with the principal amount of $50000.0 in 12.0 months, interest amount with rate 0.02% is &12000.0
+with the principal amount of $50000.0 in 12.0 months, interest amount with rate 0.03% is &18000.0
+with the principal amount of $50000.0 in 12.0 months, interest amount with rate 0.04% is &24000.0
+-----------------------
+10000.0
+-----------------------
+with the principal amount of $10000.0 in 12.0 months, interest amount with rate 0.01% is &1200.0
+with the principal amount of $10000.0 in 12.0 months, interest amount with rate 0.02% is &2400.0
+with the principal amount of $10000.0 in 12.0 months, interest amount with rate 0.03% is &3600.0
+with the principal amount of $10000.0 in 12.0 months, interest amount with rate 0.04% is &4800.0
+-----------------------
+20000.0
+-----------------------
+with the principal amount of $20000.0 in 12.0 months, interest amount with rate 0.01% is &2400.0
+with the principal amount of $20000.0 in 12.0 months, interest amount with rate 0.02% is &4800.0
+with the principal amount of $20000.0 in 12.0 months, interest amount with rate 0.03% is &7200.0
+with the principal amount of $20000.0 in 12.0 months, interest amount with rate 0.04% is &9600.0
+
+
+
+
+
+
+
